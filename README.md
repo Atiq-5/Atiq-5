@@ -64,8 +64,4 @@
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="50px" width="50px"/>
   </a>
 </p>
----
-
-
-<img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/Atiq-5/Atiq-5/output/pacman-contribution-graph.svg">
 
