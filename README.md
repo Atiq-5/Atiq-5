@@ -70,9 +70,6 @@
 
 ---
 
-### 🎮 Contribution Graph (Pacman Style)
-
-> 🟡 If you don’t see the graph, make sure you've set up [Platane/snk](https://github.com/Platane/snk) in your GitHub Actions.
 
 <p align="center">
   <picture>
@@ -81,3 +78,4 @@
     <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/Atiq-5/Atiq-5/output/pacman-contribution-graph.svg">
   </picture>
 </p>
+
