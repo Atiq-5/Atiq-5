@@ -58,16 +58,12 @@
 
 <p align="center">
   <a href="https://discord.com/users/atiq1320">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
+    <img src="https://www.svgrepo.com/show/353655/discord-icon.svg" height="50px" width="50px" style="margin-right: 20px;" />
   </a>
   <a href="https://instagram.com/not_atiq">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/your-linkedin-profile/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="50px" width="50px"/>
   </a>
 </p>
-
 ---
 
 
